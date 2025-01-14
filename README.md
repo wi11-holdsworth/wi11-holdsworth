@@ -1,7 +1,7 @@
 ## 👋 Hi there 
 
 - 🔭 I’m currently working on periodic single-function discord bot(s)
-- 🌱 I’m currently learning `kotlin`
+- 🌱 I’m currently learning `nix` & `NixOS`
 - 📫 How to reach me: quote-barman-chain@duck.com
 
 ## 📈 Trackers
