@@ -1,7 +1,7 @@
 ## 👋 Hi there 
 
-- 🔭 I’m currently working on periodic single-function discord bot(s)
-- 🌱 I’m currently learning `nix` & `NixOS`
+- 🔭 I’m currently ideating a self-hostable discord alternative
+- 🌱 I’m currently learning `rust`, `nix` and `NixOS`
 
 ## 📈 Trackers
 
